@@ -1,3 +1,4 @@
+
 ISO 27001 Clause 4 Summary
 
 Clause 4.1 – Understanding the Organization and Its Context
