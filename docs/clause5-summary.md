@@ -21,3 +21,4 @@ Clause 5.3 – Organizational Roles, Responsibilities, and Authorities
 Management must clearly define and communicate security roles and responsibilities throughout the organization.
 
 Example: The CEO approves security strategy, the IT Manager implements technical controls, the GRC Analyst manages compliance activities, and employees follow security policies.
+
