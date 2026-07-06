@@ -37,3 +37,13 @@ These gaps increase exposure to:
 - Formalize risk assessment methodology
 - Implement control evidence tracking system
 - Introduce internal audit cycle
+
+## Clause 8 Operational Gaps
+
+| Gap Identified | Risk | Recommendation | Priority | Owner |
+| :--- | :--- | :--- | :--- | :--- |
+| No formal Risk Treatment Plan | High risks may not be addressed consistently | Develop and maintain a Risk Treatment Plan | High | Information Security Manager |
+| Control implementation is not centrally tracked | Controls may be overlooked | Create a Control Implementation Tracker | High | GRC Analyst |
+| Operational evidence is stored inconsistently | Audit evidence may be unavailable | Define a standard evidence repository | Medium | IT Manager |
+| Access reviews are not performed regularly | Unauthorized access may remain active | Conduct quarterly access reviews | High | IT Manager |
+| Backup restore tests are not documented | Recovery capability cannot be demonstrated | Schedule and document restore testing | Medium | Infrastructure Lead |
