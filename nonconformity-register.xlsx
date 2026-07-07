@@ -1,0 +1,6 @@
+NC ID,Finding,Severity,Root Cause,Corrective Action,Owner,Due Date,Status
+NC-001,Employees did not complete awareness training,Medium,No reminder process,Configure automatic reminders and manager escalation,HR Manager,15 Aug 2026,Open
+NC-002,Risk Register not reviewed quarterly,High,Review schedule missing,Implement quarterly review calendar,GRC Analyst,31 Jul 2026,In Progress
+NC-003,ISMS Policy missing approval,Medium,Approval workflow not followed,Implement document approval workflow,Information Security Manager,10 Aug 2026,Open
+NC-004,Backup restore tests not documented,High,Evidence retention process missing,Create backup testing procedure and retain reports,Infrastructure Lead,20 Aug 2026,In Progress
+NC-005,Access reviews overdue,High,No review ownership,Assign owner and automate reminders,IT Manager,30 Jul 2026,Open
