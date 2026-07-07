@@ -47,3 +47,13 @@ These gaps increase exposure to:
 | Operational evidence is stored inconsistently | Audit evidence may be unavailable | Define a standard evidence repository | Medium | IT Manager |
 | Access reviews are not performed regularly | Unauthorized access may remain active | Conduct quarterly access reviews | High | IT Manager |
 | Backup restore tests are not documented | Recovery capability cannot be demonstrated | Schedule and document restore testing | Medium | Infrastructure Lead |
+
+## Clause 10 – Nonconformities and Corrective Actions
+
+| Nonconformity | Corrective Action | Priority |
+| :--- | :--- | :--- |
+| Awareness training completion below target | Implement automated reminders and manager reporting | High |
+| Quarterly Risk Register reviews not performed | Schedule recurring reviews with assigned owner | High |
+| Missing policy approval records | Implement formal document approval workflow | Medium |
+| Backup restore testing evidence missing | Standardize testing and evidence retention | High |
+| Access reviews overdue | Assign ownership and perform quarterly reviews | High |
